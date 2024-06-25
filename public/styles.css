@@ -513,7 +513,7 @@ audio {
 }
 
 audio::-webkit-media-controls-panel {
-  color: #000;
+  color: #FFFFFF;
   padding: 5px;
   border-radius: 10px;
 }
